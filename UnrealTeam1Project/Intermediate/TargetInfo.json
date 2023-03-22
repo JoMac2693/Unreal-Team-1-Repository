@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealTeam1Project",
+			"Path": "C:\\Users\\Jordan\\Documents\\Unreal Projects\\UnrealTeam1Project\\Source\\UnrealTeam1Project.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealTeam1ProjectEditor",
+			"Path": "C:\\Users\\Jordan\\Documents\\Unreal Projects\\UnrealTeam1Project\\Source\\UnrealTeam1ProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

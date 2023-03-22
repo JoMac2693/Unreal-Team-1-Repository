@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\Jordan\\Documents\\Unreal Projects\\UnrealTeam1Project\\Source\\UnrealTeam1Project\\UnrealTeam1Project.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Jordan\\Documents\\Unreal Projects\\UnrealTeam1Project\\.vscode\\compileCommands_UnrealTeam1Project\\UnrealTeam1Project.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Jordan\\Documents\\Unreal Projects\\UnrealTeam1Project\\Source\\UnrealTeam1Project\\UnrealTeam1Project.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Jordan\\Documents\\Unreal Projects\\UnrealTeam1Project\\.vscode\\compileCommands_UnrealTeam1Project\\UnrealTeam1Project.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Jordan\\Documents\\Unreal Projects\\UnrealTeam1Project\\Source\\UnrealTeam1Project\\UnrealTeam1Project.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Jordan\\Documents\\Unreal Projects\\UnrealTeam1Project\\.vscode\\compileCommands_UnrealTeam1Project\\UnrealTeam1Project.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Jordan\\Documents\\Unreal Projects\\UnrealTeam1Project\\Source\\UnrealTeam1Project\\UnrealTeam1ProjectGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Jordan\\Documents\\Unreal Projects\\UnrealTeam1Project\\.vscode\\compileCommands_UnrealTeam1Project\\UnrealTeam1Project.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Jordan\\Documents\\Unreal Projects\\UnrealTeam1Project\\Source\\UnrealTeam1Project\\UnrealTeam1ProjectGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Jordan\\Documents\\Unreal Projects\\UnrealTeam1Project\\.vscode\\compileCommands_UnrealTeam1Project\\UnrealTeam1Project.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	}
+]

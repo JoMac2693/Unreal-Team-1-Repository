@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jordan\\documents\\unreal projects\\unrealteam1project\\source\\unrealteam1project\\unrealteam1projectgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jordan\\documents\\unreal projects\\unrealteam1project\\intermediate\\build\\win64\\unrealteam1projecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\jordan\\documents\\unreal projects\\unrealteam1project\\intermediate\\build\\win64\\unrealeditor\\development\\unrealteam1project\\definitions.unrealteam1project.h",
+            "c:\\users\\jordan\\documents\\unreal projects\\unrealteam1project\\source\\unrealteam1project\\unrealteam1projectgamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\jordan\\documents\\unreal projects\\unrealteam1project\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealteam1project\\uht\\unrealteam1projectgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
