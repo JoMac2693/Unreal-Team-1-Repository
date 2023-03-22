@@ -1,0 +1,152 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Launch UnrealTeam1Project (Debug)",
+			"request": "launch",
+			"program": "C:\\Users\\Jordan\\Documents\\Unreal Projects\\UnrealTeam1Project\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+			"preLaunchTask": "UnrealTeam1Project Win64 Debug Build",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch UnrealTeam1Project (DebugGame)",
+			"request": "launch",
+			"program": "C:\\Users\\Jordan\\Documents\\Unreal Projects\\UnrealTeam1Project\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+			"preLaunchTask": "UnrealTeam1Project Win64 DebugGame Build",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch UnrealTeam1Project (Development)",
+			"request": "launch",
+			"program": "C:\\Users\\Jordan\\Documents\\Unreal Projects\\UnrealTeam1Project\\Binaries\\Win64\\UnrealGame.exe",
+			"preLaunchTask": "UnrealTeam1Project Win64 Development Build",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch UnrealTeam1Project (Test)",
+			"request": "launch",
+			"program": "C:\\Users\\Jordan\\Documents\\Unreal Projects\\UnrealTeam1Project\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+			"preLaunchTask": "UnrealTeam1Project Win64 Test Build",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch UnrealTeam1Project (Shipping)",
+			"request": "launch",
+			"program": "C:\\Users\\Jordan\\Documents\\Unreal Projects\\UnrealTeam1Project\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+			"preLaunchTask": "UnrealTeam1Project Win64 Shipping Build",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch UnrealTeam1ProjectEditor (Debug)",
+			"request": "launch",
+			"program": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
+			"preLaunchTask": "UnrealTeam1ProjectEditor Win64 Debug Build",
+			"args": [
+				"C:\\Users\\Jordan\\Documents\\Unreal Projects\\UnrealTeam1Project\\UnrealTeam1Project.uproject"
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch UnrealTeam1ProjectEditor (DebugGame)",
+			"request": "launch",
+			"program": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+			"preLaunchTask": "UnrealTeam1ProjectEditor Win64 DebugGame Build",
+			"args": [
+				"C:\\Users\\Jordan\\Documents\\Unreal Projects\\UnrealTeam1Project\\UnrealTeam1Project.uproject"
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch UnrealTeam1ProjectEditor (Development)",
+			"request": "launch",
+			"program": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+			"preLaunchTask": "UnrealTeam1ProjectEditor Win64 Development Build",
+			"args": [
+				"C:\\Users\\Jordan\\Documents\\Unreal Projects\\UnrealTeam1Project\\UnrealTeam1Project.uproject"
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "coreclr",
+			"request": "launch",
+			"program": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Build\\BatchFiles\\RunUBT.bat",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=C:\\Users\\Jordan\\Documents\\Unreal Projects\\UnrealTeam1Project\\UnrealTeam1Project.uproject",
+				"-game",
+				"-engine"
+			],
+			"console": "externalTerminal",
+			"stopAtEntry": false,
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.1"
+		}
+	]
+}
