@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UnrealTeam1Project.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Jordan\Documents\Unreal Projects\UnrealTeam1Project\Intermediate\Build\Win64\UnrealTeam1ProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Jordan\Documents\Unreal Projects\UnrealTeam1Project\Intermediate\Build\Win64\UnrealEditor\Development\UnrealTeam1Project\UnrealTeam1Project.init.gen.cpp.obj"
+"C:\Users\Jordan\Documents\Unreal Projects\UnrealTeam1Project\Intermediate\Build\Win64\UnrealEditor\Development\UnrealTeam1Project\UnrealTeam1ProjectGameModeBase.gen.cpp.obj"
+"C:\Users\Jordan\Documents\Unreal Projects\UnrealTeam1Project\Intermediate\Build\Win64\UnrealEditor\Development\UnrealTeam1Project\UnrealTeam1Project.cpp.obj"
+"C:\Users\Jordan\Documents\Unreal Projects\UnrealTeam1Project\Intermediate\Build\Win64\UnrealEditor\Development\UnrealTeam1Project\UnrealTeam1ProjectGameModeBase.cpp.obj"
+"C:\Users\Jordan\Documents\Unreal Projects\UnrealTeam1Project\Intermediate\Build\Win64\UnrealEditor\Development\UnrealTeam1Project\Default.rc2.res"
+/OUT:"C:\Users\Jordan\Documents\Unreal Projects\UnrealTeam1Project\Intermediate\Build\Win64\UnrealEditor\Development\UnrealTeam1Project\UnrealEditor-UnrealTeam1Project.lib"
